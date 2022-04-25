@@ -5,5 +5,5 @@
 - 📫 How to reach me ...
 
 
-<img src="https://img.shields.io/badge/cscarp-#8b00ff?style=flat-square&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/cscarp-6A329F?style=flat-square&logo=csharp&logoColor=white"/>
 
