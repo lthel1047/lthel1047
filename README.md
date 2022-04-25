@@ -7,4 +7,4 @@
 <img src="https://img.shields.io/badge/Cscarp-6A329F?style=flat-square&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/C++-C90076?style=flat-square&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white">
 
 ## 🛠️Used Tech Stack🛠️
-<img src="https://img.shields.io/badge/MySQL-2986CC?style=flat-square&logo=MySQL&logoColor=white"/><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-2986CC?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
