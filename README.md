@@ -11,5 +11,3 @@
 ## 🛠️Used Tech Stack🛠️
 <img src="https://img.shields.io/badge/MySQL-2986CC?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 </div>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lthel1047&show_icons=true&theme=radical)
