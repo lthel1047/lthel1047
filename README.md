@@ -52,16 +52,6 @@ PC · 모바일 · VR · MR · AR, 플랫폼을 가리지 않고 개발합니다
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-## 📌 GitHub
-
-[![GitHub](https://img.shields.io/badge/GitHub-lthel1047-111111?style=flat-square&logo=github)](https://github.com/lthel1047)
-![Followers](https://img.shields.io/github/followers/lthel1047?style=flat-square&color=d42b2b&labelColor=111111)
----
-
 ## 🗂 Career
 
 | 기간 | 회사 | 역할 |
