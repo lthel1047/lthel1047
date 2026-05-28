@@ -56,9 +56,8 @@ PC · 모바일 · VR · MR · AR, 플랫폼을 가리지 않고 개발합니다
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lthel1047&show_icons=true&theme=dark&bg_color=111111&title_color=d42b2b&icon_color=d42b2b&text_color=ffffff&border_color=333333&hide_border=false&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lthel1047&layout=compact&theme=dark&bg_color=111111&title_color=d42b2b&text_color=ffffff&border_color=333333&hide_border=false)
+[![GitHub](https://img.shields.io/badge/GitHub-lthel1047-111111?style=flat-square&logo=github)](https://github.com/lthel1047)
+![Followers](https://img.shields.io/github/followers/lthel1047?style=flat-square&color=d42b2b&labelColor=111111)
 
 </div>
 
